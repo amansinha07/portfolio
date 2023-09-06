@@ -14,4 +14,3 @@ Specifically, I aim to master various data visualization tools and techniques, u
 <div class="flourish-embed flourish-chart" data-src="visualisation/14926897"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## The Final Dataviz!
-<div class="flourish-embed flourish-chart" data-src="visualisation/14926897"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

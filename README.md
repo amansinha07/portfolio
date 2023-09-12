@@ -13,13 +13,15 @@ Specifically, I aim to master various data visualization tools and techniques, u
 ## In-Class Activity I: King County Cumulative Data
 <div class="flourish-embed flourish-chart" data-src="visualisation/14926897"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## [Data Visualization Two using OECD](/dataviztwo.md)
+## [Data Visualization Two Using OECD](/dataviztwo.md)
 
-## Data Visualization Three
+## Data Visualization Two - Part Two
 ### General Government debt-to-GDP Ratio
 The general government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardized guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 <div class="flourish-embed flourish-chart" data-src="visualisation/14987135"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Data Visualization Two - Part Three
+### Revamped Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/14987346"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## The Final Dataviz!

@@ -30,6 +30,6 @@ For the above-revamped data visualization, I chose a column chart - a common dat
 
 To make the visualizations more comprehensible, I added a few elements like the Title, Subtitle, a description paragraph, labeled the axes, and data source to the footer.
 
-_Abhigyan (2020, June 7). Different Data Visualization Techniques. Analytics Vidhya on Medium. https://medium.com/analytics-vidhya/different-visualization-techniques-a2a461c31dff_
+_Abhigyan (2020, June 7). Different Data Visualization Techniques. Analytics Vidhya on Medium. [/https://medium.com/analytics-vidhya/different-visualization-techniques-a2a461c31dff_]
 
 ## The Final Dataviz!
